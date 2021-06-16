@@ -1,4 +1,4 @@
-## Varentsov Pavel
+## Pavel Varentsov
 
 I'm Pavel - a backend developer working with NodeJS and TypeScript.
 
