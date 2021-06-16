@@ -2,6 +2,9 @@
 
 I'm Pavel - a backend developer working with NodeJS and TypeScript.
 
+- [Projects](https://github.com/pvarentsov?tab=repositories&q=&type=source)
+- [Gists](https://gist.github.com/pvarentsov)
+
 ## Get in touch
 - LinkedIn: [@pvarentsov](https://www.linkedin.com/in/pvarentsov/)
 - Reddit: [@pvarentsov](https://www.reddit.com/user/pvarentsov/)
