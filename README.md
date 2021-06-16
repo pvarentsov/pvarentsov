@@ -1,16 +1,18 @@
-### Hi there 👋
+## Varentsov Pavel
 
-<!--
-**pvarentsov/pvarentsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pavel - a backend developer working with NodeJS and TypeScript.
 
-Here are some ideas to get you started:
+## GitHub analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pvarentsov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pvarentsov&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+## Get in touch
+- LinkedIn: [@pvarentsov](https://www.linkedin.com/in/pvarentsov/)
+- Reddit: [@pvarentsov](https://www.reddit.com/user/pvarentsov/)
+- Facebook: [@pvarentsov](https://www.facebook.com/pvarentsov/)
