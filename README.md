@@ -2,7 +2,7 @@
 
 I'm Pavel - a backend developer working with NodeJS and TypeScript.
 
-- [Repositories](https://github.com/pvarentsov?tab=repositories&type=source&sort=stargazers)
+- [Projects](https://github.com/pvarentsov?tab=repositories&type=source&sort=stargazers)
 - [Gists](https://gist.github.com/pvarentsov)
 
 ## Get in touch
