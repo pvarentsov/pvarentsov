@@ -1,6 +1,6 @@
 ## Pavel Varentsov
 
-I'm Pavel - a backend developer working with NodeJS and TypeScript.
+I'm Pavel - a backend developer working with NodeJS/TypeScript and Golang.
 
 - [Projects](https://github.com/pvarentsov?tab=repositories&type=source&sort=stargazers)
 - [Gists](https://gist.github.com/pvarentsov)
