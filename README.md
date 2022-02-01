@@ -1,6 +1,6 @@
 ## Pavel Varentsov
 
-I'm a backend developer focusing on `NodeJS`/`TypeScript` and `Golang`.
+I'm a backend developer focusing on `NodeJS`/`TypeScript` and `Go`.
 
 - [Projects](https://github.com/pvarentsov?tab=repositories&type=source&sort=stargazers)
 - [Gists](https://gist.github.com/pvarentsov)
