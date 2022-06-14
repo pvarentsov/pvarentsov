@@ -1,5 +1,4 @@
 ## Pavel Varentsov
-![](https://img.shields.io/github/stars/pvarentsov?affiliations=OWNER&style=social)
 
 I'm a backend developer focusing on `Go` and `NodeJS`/`TypeScript`.
 
